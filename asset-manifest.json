@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactMarathon-monsters-rolodex/static/css/main.952de14a.chunk.css",
-    "main.js": "/ReactMarathon-monsters-rolodex/static/js/main.624fc770.chunk.js",
-    "main.js.map": "/ReactMarathon-monsters-rolodex/static/js/main.624fc770.chunk.js.map",
+    "main.js": "/ReactMarathon-monsters-rolodex/static/js/main.fab544b4.chunk.js",
+    "main.js.map": "/ReactMarathon-monsters-rolodex/static/js/main.fab544b4.chunk.js.map",
     "runtime-main.js": "/ReactMarathon-monsters-rolodex/static/js/runtime-main.30bdb51e.js",
     "runtime-main.js.map": "/ReactMarathon-monsters-rolodex/static/js/runtime-main.30bdb51e.js.map",
     "static/js/2.30b0eed7.chunk.js": "/ReactMarathon-monsters-rolodex/static/js/2.30b0eed7.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.30bdb51e.js",
     "static/js/2.30b0eed7.chunk.js",
     "static/css/main.952de14a.chunk.css",
-    "static/js/main.624fc770.chunk.js"
+    "static/js/main.fab544b4.chunk.js"
   ]
 }
