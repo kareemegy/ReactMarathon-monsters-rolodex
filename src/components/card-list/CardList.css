@@ -1,0 +1,13 @@
+.card-list {
+  width: 85vw;
+  margin: 0px auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  grid-gap: 20px;
+}
+
+@media only screen and (max-width: 372px) {
+  .card-list {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  }
+}
