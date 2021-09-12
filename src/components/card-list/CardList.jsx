@@ -7,6 +7,7 @@ const CardList = (props) => {
       {props.monsters.map((monster) => (
         <Card key={monster.id} monster={monster} />
       ))}
+      {props.monsters.length <= 0 && "No Monster Here :)"}
     </div>
   );
 };
